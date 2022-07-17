@@ -1,0 +1,603 @@
+h1 , h2 , h3 , h4 , h5 , h6 , p , a{
+    position: absolute;
+    font-size: 22px;
+    font-family: "roboto";
+    color: black;
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
+div{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    height: 6700px;
+}
+p{
+    line-height: 1.5;
+}
+.Maximum{
+    width: 100%;
+    height: 700px;
+    background-image: url("../imgs/header2.png");
+}
+.Maximum h1{
+    position: absolute;
+    color: #fff;
+    font-family: "Didact Gothic";
+    font-size: 44px;
+    top: 260px;
+    left: 80px;
+}
+.Maximum p{
+    position: absolute;
+    color: #cdcdcd;
+    font-family: "News Cycle";
+    font-size: 114px;
+    top: 190px;
+    left: 56px;
+}
+.Maximum h2{
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    top: 460px;
+    font-family: "roboto";
+    left: 65px;
+}
+.Maximum a{
+    color: #fff;
+    background-color: #f85c70;
+    padding: 15px 33px;
+    border-radius: 43px;
+    font-size: 18px;
+    position: absolute;
+    top: 550px;
+    left: 54px;
+}
+.menu{
+    position: relative;
+    position: absolute;
+    background-color: #fff;
+    width: 1333px;
+    height: 80px;
+    display: fixed;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Information{
+    position: relative;
+
+}
+.menu .p1{
+    position: absolute;
+    color: #f85c70;
+    font-family: "roboto";
+    font-size: 17px;
+    top: 14px;
+    left: 110px;
+}
+.p2{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 19px;
+    top: 10px;
+    margin-left: 210px;
+}
+.p3{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 19px;
+    top: 10px;
+    margin-left: 310px; 
+}
+.p4{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 16px;
+    top: 0px;
+    margin-left: 620px; 
+}
+.p5{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 12px;
+    top: 30px;
+    margin-left: 610px; 
+    color: #adadad;
+}
+.p6{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 19px;
+    top: 10px;
+    margin-left: 980px; 
+}
+.p7{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 19px;
+    top: 10px;
+    margin-left: 1100px; 
+}
+.p8{
+    position: absolute;
+    color: #000;
+    font-family: "roboto";
+    font-size: 19px;
+    top: 10px;
+    margin-left: 1180px; 
+}
+.one-box{
+    width: 440px;
+    height: 500px;
+    position: absolute;
+    top: 90px;
+    border-right: #dee2e6 1px solid;
+    border-bottom: #dee2e6 1px solid;
+}
+.two-box{
+    border-right: #dee2e6 1px solid;
+    width: 440px;
+    height: 500px;
+    position: relative;
+    top: 90px;
+    border-bottom: #dee2e6 1px solid;
+    left: 440px;
+}
+.tree-box{
+    border-bottom: #dee2e6 1px solid;
+    width: 450px;
+    height: 500px;
+    position: relative;
+    top: -411px;
+    left: 880px;
+}
+.one-box .p-one-box{
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.border-wh{
+    border-bottom: #f85c70 1px solid;
+    padding-bottom: 8px;
+}
+.p-two-box{
+    position: absolute;
+    font-size: 19px;
+    top: 150px;
+    left: 100px;
+}
+.p-tree-box{
+    font-size: 15px;
+    position: absolute;
+    top: 220px;
+    left: 100px;
+    color: #adadad;
+}
+.one-box a{
+    position: absolute;
+    color: #f85c70;
+    padding: 14px 22px;
+    border: 1px solid #f85c70;
+    font-size: 13px;
+    border-radius: 7px;
+    top: 320px;
+    left: 100px;
+}
+.two-box .pp{
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.list{
+    font-size: 13px;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: #adadad;
+}
+.p-treee-box{
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+.ux{
+    position: absolute;
+    top: 140px;
+    left: 130px;
+}
+.oo , .yy{
+    position: absolute;
+    top: 230px;
+    left: 130px;
+}
+.yy{
+    top: 320px;
+}
+.Resume{
+    height: 800px;
+    width: 100%;
+    position: relative;
+    position: absolute;
+    top: 0px;
+    top: 1310px;
+}
+.Resume h1{
+    font-family: "Didact Gothic";
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    font-size: 32px;
+}
+.box-resume{
+    width: 400px;
+    height: 630px;
+    border: 1px solid #adadad;
+    position: relative;
+    position: absolute;
+    top: 120px;
+    left: 30px;
+}
+.one-text-resume{
+    font-size: 24px; 
+    position: absolute;
+    left: 32px;
+}
+.tree-text-resume{
+    position: absolute;
+    font-size: 15px;
+    position: absolute;
+    top: 120px;
+    left: 32px;
+    color: #adadad;
+    border-bottom: 1px solid #adadad;
+    padding-bottom: 23px;
+}
+.box2-resume{
+    width: 400px;
+    height: 630px;
+    border: 1px solid #adadad;
+    position: relative;
+    position: absolute;
+    top: 120px;
+    left: 460px;
+}
+.box3-resume{
+    width: 400px;
+    height: 630px;
+    border: 1px solid #adadad;
+    position: relative;
+    position: absolute;
+    top: 120px;
+    left: 890px;
+}
+.bg-dark{
+    height: 270px;
+    width: 100%;
+    background-color: #343a40;
+    position: relative;
+    position: absolute;
+    top: 2100px;
+}
+.services{
+    width: 100%;
+    height: 900px;
+    position: absolute;
+    position: relative;
+    top: 0px;
+    top: 660px;
+}
+.services h1{
+    font-size: 32px;
+    position: absolute;
+    top: 30px;
+    left: 550px;
+}
+.box-Ullam{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    top: 160px;
+    left: 50px;
+    border: 1px solid #adadad;
+}
+.box-Asperiores{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    top: -142px;
+    left: 450px;
+    border: 1px solid #adadad;
+}
+.box-Tempora{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    left: 850px;
+    border: 1px solid #adadad;
+    bottom: 445px;
+}
+.img-text{
+    position: absolute;
+    left: 300px;
+}
+.box-Provident{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    left: 850px;
+    border: 1px solid #adadad;
+    bottom: 445px;
+    top: 260px;
+}
+.box-Consectetur{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    top: -42px;
+    left: 450px;
+    border: 1px solid #adadad;
+}
+.box-Veritatis{
+    position: absolute;
+    position: relative;
+    width: 380px;
+    height: 300px;
+    top: -343px;
+    left: 50px;
+    border: 1px solid #adadad;
+}
+.Packs-Pricing{
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    top: 0px;
+    top: 3293px;
+}
+.one-box-Packs-Pricing{
+    position: relative;
+    position: absolute;
+    width: 270px;
+    top: 180px;
+    left: 50px;
+    height: 500px;
+    border: 1px solid #adadad;
+}
+.two-box-Packs-Pricing{
+    position: relative;
+    position: absolute;
+    width: 270px;
+    top: 180px;
+    left: 350px;
+    height: 500px;
+    border: 1px solid #adadad;
+}
+.tree-box-Packs-Pricing{
+    position: relative;
+    position: absolute;
+    width: 270px;
+    top: 160px;
+    left: 656px;
+    height: 540px;
+    border: 1px solid #adadad;
+}
+.foor-box-Packs-Pricing{
+    position: relative;
+    position: absolute;
+    width: 270px;
+    top: 180px;
+    left: 960px;
+    height: 500px;
+    border: 1px solid #adadad;
+}
+.ss:hover{
+    background-color: #fc3d56;
+    transition: all 0.2s;
+    padding: 15px 38px;
+}
+.ss{
+    background-color: #f85c70;
+    color: #fff;
+    padding: 10px 38px;
+    font-size: 16px;
+    top: 400px;
+    left: 41px;
+    border-radius: 34px;
+}
+.sss{
+    background-color: #f85c70;
+    color: #fff;
+    padding: 10px 38px;
+    font-size: 16px;
+    top: 418px;
+    left: 41px;
+    border-radius: 34px;
+}
+.sss:hover{
+    background-color: #fc3d56;
+    transition: all 0.2s;
+    padding: 15px 38px;
+}
+.ppp{
+    position: absolute;
+    font-size: 14px;
+    color: #fa566c;
+    left: 10px;
+    animation-name: ppp;
+    border-radius: 50%;
+    animation-duration: 1s;
+    transition: all 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes ppp{
+    0%{
+        font-size: 12px;
+        left: 10px;
+    }
+    100%{
+        left: 11px;
+        font-size: 16px;
+    }
+}
+.bg-dark2{
+    position: relative;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    top: 4100px;
+    background-color: #212529;
+}
+.Portfolio{
+    position: absolute;
+    position: relative;
+    width: 100%;
+    height: 700px;
+    top: 800px;
+}
+.hr-one{
+    color: #9999;
+    width: 440px;
+    position: absolute;
+    top: 170px;
+    left: 412px;
+}
+.text-new{
+    position: absolute; 
+    color: #999999;
+    font-size: 14px;
+    left: 430px;
+    top: 140px;
+}
+.text-new:hover{
+    padding: 3px 10px;
+    border-radius: 2px;
+    background-color: #fa566c;
+    transition: all 0.5s;
+}
+.one-piccher{
+    position: absolute;
+    position: relative;
+    height: 520px; width: 340px;
+    top: 300px;
+    left: 101px;
+    background-image: url("../imgs/web-4.jpg");
+    border-radius: 3px;
+}
+.two-piccher{
+    position: absolute;
+    position: relative;
+    height: 260px; width: 340px;
+    top: -220px;
+    left: 471px;
+    background-image: url("../imgs/web-2.jpg");
+    border-radius: 3px;
+}
+.tree-piccher{
+    position: absolute;
+    position: relative;
+    height: 230px; width: 340px;
+    top: -480px;
+    left: 831px;
+    background-image: url("../imgs/advertising-2.jpg");
+    border-radius: 3px;
+}
+.foor-piccher{
+    position: absolute;
+    position: relative;
+    height: 279px; width: 340px;
+    top: -430px;
+    left: 471px;
+    background-image: url("../imgs/advertising-3.jpg");
+    border-radius: 3px;
+}
+.five-piccher{
+    position: absolute;
+    position: relative;
+    height: 269px; width: 340px;
+    top: -728px;
+    left: 831px;
+    background-image: url("../imgs/web-3.jpg");
+    border-radius: 3px;
+}
+.six-piccher{
+    position: absolute;
+    position: relative;
+    height: 269px; width: 340px;
+    top: -710px;
+    left: 101px;
+    background-image: url("../imgs/branding-2.jpg");
+    border-radius: 3px;
+}
+.seven-piccher{
+    position: absolute;
+    position: relative;
+    height: 230px; width: 340px;
+    top: -940px;
+    left: 472px;
+    background-image: url("../imgs/branding-3.jpg");
+    border-radius: 3px;
+}
+.eight-piccher{
+    position: absolute;
+    position: relative;
+    height: 269px; width: 340px;
+    top: -1200px;
+    left: 831px;
+    background-image: url("../imgs/advertising-4.jpg");
+    border-radius: 3px;
+}
+.latest-new{
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 900px;
+    /* border: 1px solid red; */
+    top: 0px;
+    top: 1140px;
+}
+.dakhel-box-yek{
+    background-image: url("../imgs/blog1.jpg");
+}
+.animation-felash-right{
+    animation-name: animation-felash-right;
+    animation-duration: 0.7s;
+    transition: all 0.7s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes animation-felash-right{
+    0%{
+        position: absolute;
+        left: 78px;
+    }
+    100%{
+        position: absolute;
+        left: 95px;
+    }
+}
+.dakhel-box-do{
+    background-image: url("../imgs/blog2.jpg");
+}
+.dakhel-box-se{
+    background-image: url("../imgs/blog3.jpg");
+}
